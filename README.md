@@ -1,5 +1,7 @@
 # @deveodk/vue-animate
 
+<img src="https://cloud.githubusercontent.com/assets/7561792/26754760/0f3431e2-4881-11e7-88c1-a03915000c25.png" width="100%" />
+
 [![npm](https://img.shields.io/npm/v/@deveodk/vue-animate.svg)](https://www.npmjs.com/package/@deveodk/vue-animate) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
 > Vue-animate provides an easy way to use beautiful animations for your page. Ideal for hero style landing pages
@@ -51,4 +53,4 @@ There are currently four available animations
 
 [MIT](http://opensource.org/licenses/MIT)
 
-#### Made with <3 by Deveo
+<img src="https://cloud.githubusercontent.com/assets/7561792/26679305/bc4d7bda-46d4-11e7-9270-3f6cacdd0ae9.png" width="100%" />
