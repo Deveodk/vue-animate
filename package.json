@@ -1,6 +1,6 @@
 {
   "name": "@deveodk/vue-animate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue-animate provides an easy way to use beautiful animations for your page. Ideal for hero style landing pages",
   "author": "Jason Kelly <jk@deveo.dk>",
   "main": "dist/@deveodk/vue-animate.common.js",
@@ -8,6 +8,16 @@
   "browser": "dist/@deveodk/vue-animate.js",
   "unpkg": "dist/@deveodk/vue-animate.js",
   "style": "dist/@deveodk/vue-animate.css",
+  "keywords": [
+    "vuejs",
+    "vue",
+    "vue-component",
+    "component",
+    "deveodk",
+    "canvas",
+    "animation",
+    "javascript"
+  ],
   "files": [
     "dist",
     "src"
@@ -119,12 +129,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deveodk/vue-animate/@deveodk/vue-animate.git"
+    "url": "git+https://github.com/deveodk/vue-animate.git"
   },
   "bugs": {
-    "url": "https://github.com/deveodk/vue-animate/@deveodk/vue-animate/issues"
+    "url": "https://github.com/deveodk/vue-animate/issues"
   },
-  "homepage": "https://github.com/deveodk/vue-animate/@deveodk/vue-animate#readme",
+  "homepage": "https://github.com/deveodk/vue-animate#readme",
   "license": {
     "type": "MIT",
     "url": "https://www.opensource.org/licenses/mit-license.php"

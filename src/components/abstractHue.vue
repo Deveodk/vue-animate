@@ -3,10 +3,10 @@
         <canvas ref="canvas" @click="onClick()" class="canvas" :width="width" :height="height"></canvas>
     </div>
 </template>
-<style>
+<style scoped>
     .canvas {
-        width: 100%;
-        height: 100%
+        width: 100% !important;
+        height: 100% !important;
     }
 </style>
 <script>

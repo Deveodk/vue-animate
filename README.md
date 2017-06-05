@@ -6,6 +6,10 @@
 
 > Vue-animate provides an easy way to use beautiful animations for your page. Ideal for hero style landing pages
 
+# Demo
+See a functioning demo
+<a href="https://packages.deveo.io/packages/vue/vue-animate">deveo demo site</a>
+
 ## Installation
 
 ```bash
@@ -26,11 +30,6 @@ Vue.use(vueAnimate)
 ### Browser
 
 ```html
-<!-- Include after Vue -->
-<!-- Local files -->
-<link rel="stylesheet" href="@deveodk/vue-animate/dist/@deveodk/vue-animate.css"></link>
-<script src="@deveodk/vue-animate/dist/@deveodk/vue-animate.js"></script>
-
 <!-- From CDN -->
 <link rel="stylesheet" href="https://unpkg.com/@deveodk/vue-animate/dist/@deveodk/vue-animate.css"></link>
 <script src="https://unpkg.com/@deveodk/vue-animate"></script>
